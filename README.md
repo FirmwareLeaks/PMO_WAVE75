@@ -2,7 +2,7 @@
 
 This is a Womier RD75 clone. Therefore the [firmware of the RD75](https://github.com/FirmwareLeaks/Womier_RD75) is comaptible with the firmware of the WAVE75. If you use the firmware of one model, you must also use the related VIA JSON config file.
 
-In the [downloads section](https://github.com/FirmwareLeaks/Womier_RD75/releases/tag/Womier) you can find
+In the [downloads section](https://github.com/FirmwareLeaks/PMO_WAVE75/releases/tag/WAVE75) you can find
   - Original firmware for the PMO WAVE75 keyboard
   - The VIA JSON file that contains the default keymapping and instructions
   - The User manual (PDF)
