@@ -4,7 +4,7 @@ This is a Womier RD75 clone. Therefore the [firmware of the RD75](https://github
 
 In the [downloads section](https://github.com/FirmwareLeaks/PMO_WAVE75/releases/tag/WAVE75) you can find
   - Original firmware for the PMO WAVE75 keyboard
-  - The VIA JSON file that contains the default keymapping and instructions
+  - The VIA JSON file that contains the default keyboard definition
   - The User manual (PDF)
 
 ![tw-11134207-7rash-m2f7z92bss2ia5](https://github.com/user-attachments/assets/f3cd7484-f9da-4002-9802-6ef5aac99d94)
